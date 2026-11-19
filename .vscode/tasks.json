@@ -6,7 +6,7 @@
             "args": [
                 "build",
                 "--target",
-                "i686-pc-windows-msvc",
+                "i686-pc-windows-msvc"
             ],
             "command": "cargo",
             "problemMatcher": [
@@ -21,13 +21,13 @@
                 "--target",
                 "i686-pc-windows-msvc",
                 "--features",
-                "all",
+                "all"
             ],
             "command": "cargo",
             "problemMatcher": [
                 "$rustc"
             ],
             "group": "build"
-        },
+        }
     ]
 }
